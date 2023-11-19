@@ -1,0 +1,15 @@
+{
+  "name": "pbt-sort-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "vitest exercise.spec.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fast-check": "^3.13.2",
+    "vitest": "^0.34.6"
+  }
+}
